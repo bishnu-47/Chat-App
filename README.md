@@ -1,2 +1,2 @@
 # Chat-App
-url: https://git.heroku.com/bishnu-chat-app.git
+url: https://bishnu-chat-app.herokuapp.com/
